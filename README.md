@@ -6,7 +6,7 @@ An interactive <b>Power BI Dashboard</b> developed to analyze employee attrition
 
 <p align="center">
 
-<img src="HR_Analytics_Dashboard.png" width="1000"/>
+<img src="HR Analytics Dashboard.png" width="1000"/>
 
 </p>
 
